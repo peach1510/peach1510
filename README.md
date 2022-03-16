@@ -3,10 +3,6 @@
 <!-- <h3 align="center"><b> Hi there 👋 </b></h3> -->
 
 <p align="center" style="font-size:9pt"> 🌱 Soobin Moon, a Junior Developer. </p> 
-
-<div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peach1510)](https://github.com/anuraghazra/github-readme-stats)
-</div>
   
 <h3 align="center"><b> 🛫 Skills 🛫 </b></h3>
 <div align="center">
@@ -29,6 +25,13 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/></a>
 </div>
 
+<br/>
+
+<div align="center">
+  
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=peach1510)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <br/>
 <!--
 **peach1510/peach1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
